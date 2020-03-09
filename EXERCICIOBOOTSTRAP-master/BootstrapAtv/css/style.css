@@ -1,0 +1,42 @@
+body{
+	background-color: black;
+}
+
+.container{
+	background-color: #352a45;
+	min-height: 600px;
+	color: cyan;
+	text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+      height: auto;
+      width: 80%
+}
+h3{
+	color: green;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+#cabecalho{
+	font-weight: bold;
+}
+
+img{
+
+	width:100%;
+	height: 100%;
+}
+#aps{
+	width: 100%;
+	border:8px inset #5f6632;
+	padding:15px;
+	background: #b1b1c3;
+}
+nav{
+	font-weight: bold;
+}
+ul{
+	padding: 3px;
+}
+#headhr{
+
+}
